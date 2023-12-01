@@ -45,6 +45,7 @@ HoYeon Jung, O Yeong-su, Heo Sung-tae, Anupam Tripathi, and Kim Joo-ryoung.
 ![Squid Game](https://wp-socialnation-assets.s3.ap-south-1.amazonaws.com/wp-content/uploads/2022/06/16172904/Squid-game-in-real-life.png)
 
  > Synopsis
+
 A story of people who fail at life for various reasons, but suddenly receive a mysterious invitation to
 participate in a survival game to win more than 38 million US dollars. The game takes place at an isolated
 island and the participants are locked up until there is a final winner. The story will incorporate popular
